@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Jay, a cool developer who's been coding for a couple of years now. It's been a wild ride, and I'm not slowing down anytime soon. Building clones and portfolio projects? Been there, done that. I'm all about writing code that pays off β whether it's stacking that cash π°π° or just having a blast π₯³.
+I'm Jay, a cool developer who's been coding for a couple of years now. It's been a wild ride, and I'm not slowing down anytime soon. Building clones and portfolio projects? Been there, done that. I'm all about writing code that pays off whether it's stacking that cash💰 or just having a blast🥳.
 
 ## 🔥 Skills
 
@@ -13,6 +13,15 @@ I don't limit myself to any specific tech stack. At the end of the day, it's all
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Frameworks/Libraries/DB:** React, Node.js, Django, MongoDB, PostgreSQL
 - **Tools:** Git
+
+### Open Source Contributions
+
+I'm just starting my journey in the open-source world, but I'm super stoked about it! Contributing to open-source projects is not only a great way to learn and improve my skills, but it also allows me to give back to the developer community. Here are a few projects I've been involved with so far:
+
+- **[JSON Schema Website](https://github.com/json-schema-org/website):** Added a dark theme to the website, making it easier on the eyes for all those late-night coding sessions.
+
+I'm always on the lookout for new open-source projects to contribute to, so feel free to hit me up with recommendations!
+
 
 ## 💸 Get in Touch
 
