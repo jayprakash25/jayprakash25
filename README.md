@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Jay, a cool developer who's been coding for a couple of years now. It's been a wild ride, and I'm not slowing down anytime soon. Building clones and portfolio projects? Been there, done that. I'm all about writing code that pays off whether it's stacking that cash💰 or just having a blast🥳.
+I'm Jay, a cool developer who's been coding for a couple of years now. Building clones and portfolio projects? Been there, done that. I'm all about writing code that pays off whether it's stacking that cash💰 or just having a blast🥳.
 
 ## 🔥 Skills
 
@@ -25,7 +25,7 @@ I'm always on the lookout for new open-source projects to contribute to, so feel
 
 ## 💸 Get in Touch
 
-If you've got an idea that could use some  dev energy, hit me up! I'm always down to chat about potential collabs or just swap stories over a 🍻.
+If you've got an idea that could use some  devs, hit me up! I'm always down to chat about  collabs or just swap stories over a 🍻.
 
 - **Email:** [jpnreddy25@gmail.com](mailto:jpnreddy25@gmail.com)
 - **Twitter:** [jayprakash300](https://twitter.com/Jayprakash300)
