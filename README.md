@@ -4,11 +4,13 @@
 
 ## About Me
 
-I'm Jay, a cool developer who's been coding for a couple of years now. Building clones and portfolio projects? Been there, done that. I'm all about writing code that pays off whether it's stacking that cash💰 or just having a blast🥳.
+A dev who's been coding for a couple of years now. Building clones and portfolio projects? Child's play. I write code that brings in cash or just lets me have a good time. Cool developer at the top of my game.
 
 ## 🔥 Skills
 
-I don't limit myself to any specific tech stack. At the end of the day, it's all just a tool to bring my ideas to life. I'm a quick learner and always down to try something new. Here are a few things I've been playing around with lately:
+I don't limit myself to any specific tech stack - those are just tools to execute my ideas. I do well in core concepts that allow me to pick up any technology quickly. As an engineer, understanding fundamentals is key, and I've got that covered:
+
+Here are some areas I've been hand's-on with lately.
 
 - **Languages:** JavaScript, TypeScript, Python, Java
 - **Frameworks/Libraries/DB:** React, Node.js, Django, MongoDB, PostgreSQL
@@ -25,7 +27,7 @@ I'm always on the lookout for new open-source projects to contribute to, so feel
 
 ## 💸 Get in Touch
 
-If you've got an idea that could use some  devs, hit me up! I'm always down to chat about  collabs or just swap stories over a 🍻.
+If you've got an idea that could use some  devs, hit me up! I'm always down to chat about  collabs.
 
 - **Email:** [jpnreddy25@gmail.com](mailto:jpnreddy25@gmail.com)
 - **Twitter:** [jayprakash300](https://twitter.com/Jayprakash300)
