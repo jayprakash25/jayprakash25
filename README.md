@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#  Jay Prakash Narayan Reddy - The Dev 
+#  Jay - The Dev 
 
 ## About Me
 
