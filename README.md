@@ -24,6 +24,8 @@ Here are a few projects I've been involved with so far:
 
 I'm always on the lookout for new open-source projects to contribute to, so hit me up with recommendations!
 
+![jayprakash25's Stats](https://github-readme-stats.vercel.app/api?username=jayprakash25&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 💸 Get in Touch
 
