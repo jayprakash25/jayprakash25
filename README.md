@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-#  Jay - The Dev 
-
-## About Me
-
-A dev who's been coding for a couple of years now. Building clones and portfolio projects? Child's play. I write code that brings in cash or just lets me have a good time. Cool developer at the top of my game.
+#  Jay 
 
 ## 🔥 Skills
 
