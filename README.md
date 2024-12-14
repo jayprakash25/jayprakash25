@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-#  Jay 
-
 ## 🔥 Skills
 
 As an engineer, understanding fundamentals is key, and I've got that covered:
