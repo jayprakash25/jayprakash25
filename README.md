@@ -1,10 +1,9 @@
 ### Hi
 
-As an engineer, understanding fundamentals is key, and I've got that covered:
+As an engineer, understanding fundamentals is key, and I've got that covered.
+[Personal website](https://www.jayprakash.me/)
 
-### Open Source Contributions
-
-Here are a few projects I've been involved with so far:
+### Open Source
 
 - **[JSON Schema Website](https://github.com/json-schema-org/website):** Added a dark theme to the website, making it easier on the eyes for all those late-night coding sessions.
 
